@@ -6,7 +6,7 @@
   <link href="https://pentagram2010.github.io/atom.xml" rel="self"/>
   
   <link href="https://pentagram2010.github.io/"/>
-  <updated>2021-06-10T05:26:16.493Z</updated>
+  <updated>2021-06-10T10:35:26.301Z</updated>
   <id>https://pentagram2010.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>informalessay（态度改变与社会影响）</title>
+    <link href="https://pentagram2010.github.io/2021/06/10/informalessay/"/>
+    <id>https://pentagram2010.github.io/2021/06/10/informalessay/</id>
+    <published>2021-06-10T10:33:15.000Z</published>
+    <updated>2021-06-10T10:35:26.301Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&quot;&gt;&lt;script src=&quot;</summary>
+      
+    
+    
+    
+    <category term="读书笔记（社会学类）" scheme="https://pentagram2010.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%EF%BC%88%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%B1%BB%EF%BC%89/"/>
+    
+    
+    <category term="读书笔记" scheme="https://pentagram2010.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="举例摘抄" scheme="https://pentagram2010.github.io/tags/%E4%B8%BE%E4%BE%8B%E6%91%98%E6%8A%84/"/>
+    
+    <category term="态度改变与社会影响" scheme="https://pentagram2010.github.io/tags/%E6%80%81%E5%BA%A6%E6%94%B9%E5%8F%98%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%BD%B1%E5%93%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>关于我</title>
